@@ -1,12 +1,7 @@
 {
-  "schemaVersion": 1,
-  "enabled": true,
-  "packageName": "com.ongi.withyou",
-  "versionCode": 7,
-  "versionName": "0.1.0",
-  "minSdk": 24,
+  "schemaVersion": 1, "enabled": true, "packageName": "com.ongi.withyou",
+  "versionCode": 8, "versionName": "0.1.0", "minSdk": 24,
   "apkUrl": "https://github.com/ongi-hq/withyou-dist/releases/download/beta/withyou.apk",
-  "sizeBytes": 71493355,
-  "sha256": "9422b54b2a1c1162e506a0d0086d5cd3c1e710496462875fe9c904ff04398275",
-  "notes": { "ko": "위드유 베타입니다. 새 버전이 있으면 앱에서 안내합니다.", "en": "WithYou beta." }
+  "sizeBytes": 71526219, "sha256": "a4bea80cd0f0d436aea172472399186e0af0451537078f011149a08c85b5d1c2",
+  "notes": { "ko": "위드유 베타 업데이트가 있습니다.", "en": "WithYou beta update." }
 }
