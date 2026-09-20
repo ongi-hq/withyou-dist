@@ -3,10 +3,10 @@
   "enabled": true,
   "packageName": "com.ongi.withyou",
   "versionCode": 7,
-  "versionName": "0.1.0-selfupdate-test+7",
-  "minSdk": 21,
-  "apkUrl": "https://github.com/ongi-hq/withyou-dist/releases/download/selfupdate-test/withyou-v7.apk",
-  "sizeBytes": 167520799,
-  "sha256": "dc791f7203ca38d9e8c4a7d2fc4f153c12cd4962cc48b2dab1e296697662df8a",
-  "notes": { "ko": "인앱 업데이트 테스트 v7. 다운로드→설치까지.", "en": "Self-update test v7." }
+  "versionName": "0.1.0",
+  "minSdk": 24,
+  "apkUrl": "https://github.com/ongi-hq/withyou-dist/releases/download/beta/withyou.apk",
+  "sizeBytes": 71493355,
+  "sha256": "9422b54b2a1c1162e506a0d0086d5cd3c1e710496462875fe9c904ff04398275",
+  "notes": { "ko": "위드유 베타입니다. 새 버전이 있으면 앱에서 안내합니다.", "en": "WithYou beta." }
 }
